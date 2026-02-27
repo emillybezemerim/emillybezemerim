@@ -12,3 +12,4 @@ I’m a Computer Science student at Universidade do Extremo Sul Catarinense (UNE
 ![Node.js](https://img.shields.io/badge/Node.js-EC80AD?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-EC80AD?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-EC80AD?style=for-the-badge&logo=github&logoColor=white)
+![VScode](https://img.shields.io/badge/VScode-EC80AD?style=for-the-badge&logo=vscode&logoColor=white)
