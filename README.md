@@ -14,7 +14,7 @@ I’m passionate about building clean, responsive, and user-friendly interfaces 
 ![HTML5](https://img.shields.io/badge/HTML5-EC80AD?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-EC80AD?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-EC80AD?style=for-the-badge&logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-EC80AD?style=for-the-badge&logo=node.js&logoColor=white)
+![C](https://img.shields.io/badge/C-EC80AD?style=for-the-badge&logo=C&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-EC80AD?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-EC80AD?style=for-the-badge&logo=github&logoColor=white)
 ![VScode](https://img.shields.io/badge/VSCode-EC80AD?style=for-the-badge&logo=vscode&logoColor=white)
