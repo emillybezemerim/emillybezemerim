@@ -3,7 +3,7 @@
 #### About me:
 
 <p align="center">
-I’m a Computer Science student at Universidade do Extremo Sul Catarinense (UNESC) with a strong interest in Front-End Development. 
+I’m a Computer Science student at Universidade do Extremo Sul Catarinense (UNESC) with a strong interest in Full Stack Development. 
 I’m passionate about building clean, responsive, and user-friendly interfaces that combine design and functionality.  
 </p>
 
