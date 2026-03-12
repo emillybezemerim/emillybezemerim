@@ -21,6 +21,10 @@ I’m passionate about building clean, responsive, and user-friendly interfaces 
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emillybezemerim&layout=compact&theme=radical)
+
+---
+
 #### Connect me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EC80AD?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seuuser](https://www.linkedin.com/in/emilly-bez-emerim-b09334333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
