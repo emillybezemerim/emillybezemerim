@@ -21,7 +21,7 @@ I’m passionate about building clean, responsive, and user-friendly interfaces 
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emillybezemerim&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emillybezemerim&layout=compact&theme=radical) 
 
 ---
 
